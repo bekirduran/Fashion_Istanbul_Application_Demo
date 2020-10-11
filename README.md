@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
  # Istanbul Fashion Application Screen Images 
-<img src=/ScreenShots/ss_fashion.jgp width="400" height="700">
+<img src=/ScreenShots/ss_fashion.gif width="400" height="700">
